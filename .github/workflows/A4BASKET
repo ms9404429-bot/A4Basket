@@ -1,0 +1,73 @@
+Build a complete single-file shopping website in pure HTML, CSS and JavaScript.
+
+Website details:
+Shop Name: A4basket
+Tagline: Fresh groceries and medicines delivered to your doorstep
+Location: Varanasi, UP, India
+Phone: 9801061354
+Email: arjunsingh217e@gmail.com
+WhatsApp: https://wa.me/919801061354
+
+Theme:
+- Modern mobile-first UI
+- Green and white color palette
+- Fast loading
+- Sticky cart button bottom right
+- Responsive for phone screens
+
+Categories:
+- Groceries
+- Dairy
+- Snacks
+- Beverages
+- Medicines
+- Personal Care
+
+Products:
+1. Aashirvaad Atta 5kg | ₹280 | Groceries | https://i.ibb.co/placeholder1/atta.jpg | Premium whole wheat flour
+2. Amul Butter 500g | ₹280 | Dairy | https://i.ibb.co/placeholder2/butter.jpg | Fresh salted butter
+3. Maggi Noodles | ₹14 | Snacks | https://i.ibb.co/placeholder3/maggi.jpg | Instant noodles
+4. Coca Cola 2L | ₹95 | Beverages | https://i.ibb.co/placeholder4/coke.jpg | Soft drink
+5. Paracetamol | ₹30 | Medicines | https://i.ibb.co/placeholder5/para.jpg | Fever relief tablet
+6. Dettol Soap | ₹45 | Personal Care | https://i.ibb.co/placeholder6/dettol.jpg | Antibacterial soap
+7. Milk 1L | ₹60 | Dairy | https://i.ibb.co/placeholder7/milk.jpg | Fresh toned milk
+8. Bread | ₹35 | Groceries | https://i.ibb.co/placeholder8/bread.jpg | Fresh sandwich bread
+
+Features:
+- Product cards with image, price, description
+- Add to cart button
+- Cart modal with quantity increase/decrease
+- Remove product
+- Total calculation
+- localStorage cart save
+- Checkout form
+
+Checkout form fields:
+- Customer name
+- Phone number
+- Delivery address
+- Special instructions
+
+Order form:
+Use Formspree integration
+Form action:
+https://formspree.io/f/YOUR_FORM_ID
+
+When customer submits:
+- Send complete order summary
+- Include cart items, quantity, price and total
+- Include customer details
+
+After order:
+- Clear cart
+- Show success message:
+"Order placed! A4basket will contact you on WhatsApp."
+
+Add floating WhatsApp button.
+
+Technical:
+- Everything in one index.html file
+- No frameworks
+- No backend
+- No payment gateway
+- Ready for GitHub Pages deployment
